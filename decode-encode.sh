@@ -1,5 +1,5 @@
 #!/bin/bash
-# filepath: decode_tools.sh
+# filepath: main.sh
 
 echo "1. Decode"
 echo "2. Encode"
