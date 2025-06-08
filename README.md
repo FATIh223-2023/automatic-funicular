@@ -25,4 +25,5 @@ support:
   and run the main.sh with the command:
   [./main.sh]
 
-  sorry if my English is quite bad because I am not very goos at English,so... SALAM DARI BINJAI
+  sorry if my English is quite bad because I am not very goos at English,so... SALAM DARI SAMARINDA
+  
